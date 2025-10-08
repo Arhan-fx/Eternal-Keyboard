@@ -28,3 +28,12 @@ And this is the work I did it till now on schematics.
 
 Like after 2 hours of suffering I was able to this, much of work, I had to find every footprint on the internet and manually install them this took forever, but there is one issue I am still facing that ssd1306 is not working in kicad. But no worries I will try my best to fix.  
 
+## 10/8/2025 9 PM - I believe I am done with schematics!   
+
+![image_2025-10-09_024114017.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTExNywicHVyIjoiYmxvYl9pZCJ9fQ==--c967c2b7b8395d55329f7a254e3561da9e7f614a/image_2025-10-09_024114017.png)
+
+So I think I am done with the schematic, and here is an update in the plan.
+
+As HackClub runs on fundraisers, so money is very limited in this case, so I am dropping the plan of rotatory encoder and oled display. Now I am going to use my old broken 60% keyboards case, so hackclub has to fund me only for pcb, switches and keycaps. So my plan for future is to open my old keyboard up and measure its dimension and design the pcb for it. And I think I can make this keeb possible in next 2-3 days. Well wish me luck guys! :)
+  
+
