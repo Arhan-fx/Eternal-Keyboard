@@ -22,3 +22,9 @@ So, after finalizing the keyboard layout, I decided to search for the best micro
 And this is the work I did it till now on schematics.
   
 
+## 10/8/2025 5 PM - This caused me brain tumor   
+
+![image_2025-10-08_231238647.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--12a3f70874f9411e11eeba535bad9a7354df5b5b/image_2025-10-08_231238647.png)
+
+Like after 2 hours of suffering I was able to this, much of work, I had to find every footprint on the internet and manually install them this took forever, but there is one issue I am still facing that ssd1306 is not working in kicad. But no worries I will try my best to fix.  
+
