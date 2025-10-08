@@ -10,8 +10,15 @@ This is my journal of the design and building process of **Eternal Keyboard **.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/316).
 
 
-## 10/8/2025 - Searched the web for knowledge and created a layout  
+## 10/8/2025 3:11 PM - Searched the web for knowledge and created a layout  
 
 So, I searched up the whole internet and I decided to go with 60% layout keyboard, as it was easy to make after that I went to keyboard layout designer and made a layout for my keyboard![keyboard-layout (1).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ba9d431796388711b0cba1f64c71ce3de7c7d440/keyboard-layout%20(1).png), after struggling with the colour layout, I finally created this layout. :)
+  
+
+## 10/8/2025 3:56 PM - Decided the parts to be used in my keyboard  
+
+So, after finalizing the keyboard layout, I decided to search for the best micro controller and decided to go with rp2040, so my plan is to include a oled display, which will display welcome message and farewell message, and a rotatory encoder to control volume and brightness. And I am also thinking to add rgb to create a ambience in dark. ![image_2025-10-08_212514340.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d651bd1d3c398df18c9b0cd0a38b89851fa36dba/image_2025-10-08_212514340.png)
+
+And this is the work I did it till now on schematics.
   
 
