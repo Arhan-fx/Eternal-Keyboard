@@ -47,3 +47,11 @@ and I think I am good to go with pcb designing part. Wish me luck as this projec
 So, I tried to create pcb for my keeb, which is supposed to fit inside my old keeb's case. So after an hour of extreme crash pain that kicad gave me, I created this. I am not sure whether I created this wrong or right. SO now I am gonna take a break cuz I am suffering from extreme fever.![image_2025-10-09_230632837.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5c06540245ece4e990caa0f611c34ba79d54de98/image_2025-10-09_230632837.png)
   
 
+## 10/9/2025 6 PM - Fixed the diode   
+
+So while I was working on the PCB, I noticed that the diode that I was using in the schematics was the wrong one. After that, I removed the diode from the schematics and replaced it with a 1n4148 diode. After fixing the schematics, I went to the PCB editor and placed the diodes on the first row of the curcuit.![image_2025-10-09_234639402.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6d5aad80f5f5ff811e21522c4137b1d1e1150098/image_2025-10-09_234639402.png)
+
+
+Such a headache!
+  
+
