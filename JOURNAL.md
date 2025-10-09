@@ -55,3 +55,12 @@ So while I was working on the PCB, I noticed that the diode that I was using in 
 Such a headache!
   
 
+## 10/9/2025 8 PM - Almost done with pcb designing   
+
+So, after 100s of misplacements to using wrong diode, I beleive I have completed the majority of the pcb. So the remaining part of the project is just only size fixing of the PCB and to create the firmware of the keyboard. So I plan to create 
+1. designing of the pcb
+2. Firmware
+3. BOM
+4. I guess I am done there![image_2025-10-10_015214215.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6e8322f82c4c99979a83f3d51052d1986401130/image_2025-10-10_015214215.png)
+  
+
