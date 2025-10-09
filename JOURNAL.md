@@ -37,3 +37,8 @@ So I think I am done with the schematic, and here is an update in the plan.
 As HackClub runs on fundraisers, so money is very limited in this case, so I am dropping the plan of rotatory encoder and oled display. Now I am going to use my old broken 60% keyboards case, so hackclub has to fund me only for pcb, switches and keycaps. So my plan for future is to open my old keyboard up and measure its dimension and design the pcb for it. And I think I can make this keeb possible in next 2-3 days. Well wish me luck guys! :)
   
 
+## 10/9/2025 - Now I am done with schematics   
+
+After creating my schematics I asked other fellow hack clubber, to review my schematics, after solving some minor problem and getting approval from my fellow hack mates. I created this![image_2025-10-09_223058461.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--82fca411391aaf8130b4ea55c9c69751b01fb301/image_2025-10-09_223058461.png)
+and I think I am good to go with pcb designing part. Wish me luck as this project is amoung my one of the first complex hardware project.  
+
