@@ -64,3 +64,10 @@ So, after 100s of misplacements to using wrong diode, I beleive I have completed
 4. I guess I am done there![image_2025-10-10_015214215.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6e8322f82c4c99979a83f3d51052d1986401130/image_2025-10-10_015214215.png)
   
 
+## 10/9/2025 9 PM - Completed the pcb   
+
+So, I completed the wiring of pcb and ran DRC test which told me that my pcb is good to go, so now the only thing that I am supposed to do is create FIRMWARE for the keyboard and upload all the files to github.
+
+So there is also a problem due to my selection of microcontroller, I will not be able to fit it in my old keyboard case so, now my plan is to modify the case of my old keeb. And I will do that once I receive my fundings.![image_2025-10-10_023821118.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--56483c945b7377af2982143f2b4208d084785bf8/image_2025-10-10_023821118.png)
+  
+
