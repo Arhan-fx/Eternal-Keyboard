@@ -83,3 +83,12 @@ My aim to create
 ![Screenshot 2025-10-10 023420.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2MywicHVyIjoiYmxvYl9pZCJ9fQ==--4bfb6afead81a7927d52cbaa442abf7dde20e7a9/Screenshot%202025-10-10%20023420.png)
   
 
+## 10/10/2025 4 PM - I am done with firmware.  
+
+Now, after few days of painful work, I am done with schematics, Pcb, Firmware.
+
+Now the remaining part is to create BOM and upload all the files to my GitHub repo.
+
+Now the last thing I am gonna do is to revise everything and make sure they good to go then I will upload the files to my github repo and then ship this project. :) ![Screenshot 2025-10-10 160022.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--c2bfecbfaab3fe1ad9970a18fc357681bef2a192/Screenshot%202025-10-10%20160022.png)
+  
+
