@@ -10,25 +10,25 @@ This is my journal of the design and building process of **Eternal Keyboard **.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/316).
 
 
-## 10/8/2025 3:11 PM - Searched the web for knowledge and created a layout  
+## 10/8/2025 8 PM - Searched the web for knowledge and created a layout  
 
 So, I searched up the whole internet and I decided to go with 60% layout keyboard, as it was easy to make after that I went to keyboard layout designer and made a layout for my keyboard![keyboard-layout (1).png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--ba9d431796388711b0cba1f64c71ce3de7c7d440/keyboard-layout%20(1).png), after struggling with the colour layout, I finally created this layout. :)
   
 
-## 10/8/2025 3:56 PM - Decided the parts to be used in my keyboard  
+## 10/8/2025 9 PM - Decided the parts to be used in my keyboard  
 
 So, after finalizing the keyboard layout, I decided to search for the best micro controller and decided to go with rp2040, so my plan is to include a oled display, which will display welcome message and farewell message, and a rotatory encoder to control volume and brightness. And I am also thinking to add rgb to create a ambience in dark. ![image_2025-10-08_212514340.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA2NSwicHVyIjoiYmxvYl9pZCJ9fQ==--d651bd1d3c398df18c9b0cd0a38b89851fa36dba/image_2025-10-08_212514340.png)
 
 And this is the work I did it till now on schematics.
   
 
-## 10/8/2025 5 PM - This caused me brain tumor   
+## 10/8/2025 11 PM - This caused me brain tumor   
 
 ![image_2025-10-08_231238647.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5NCwicHVyIjoiYmxvYl9pZCJ9fQ==--12a3f70874f9411e11eeba535bad9a7354df5b5b/image_2025-10-08_231238647.png)
 
 Like after 2 hours of suffering I was able to this, much of work, I had to find every footprint on the internet and manually install them this took forever, but there is one issue I am still facing that ssd1306 is not working in kicad. But no worries I will try my best to fix.  
 
-## 10/8/2025 9 PM - I believe I am done with schematics!   
+## 10/9/2025 2 AM - I believe I am done with schematics!   
 
 ![image_2025-10-09_024114017.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTExNywicHVyIjoiYmxvYl9pZCJ9fQ==--c967c2b7b8395d55329f7a254e3561da9e7f614a/image_2025-10-09_024114017.png)
 
@@ -37,17 +37,17 @@ So I think I am done with the schematic, and here is an update in the plan.
 As HackClub runs on fundraisers, so money is very limited in this case, so I am dropping the plan of rotatory encoder and oled display. Now I am going to use my old broken 60% keyboards case, so hackclub has to fund me only for pcb, switches and keycaps. So my plan for future is to open my old keyboard up and measure its dimension and design the pcb for it. And I think I can make this keeb possible in next 2-3 days. Well wish me luck guys! :)
   
 
-## 10/9/2025 5:02 PM - Now I am done with schematics   
+## 10/9/2025 10 PM - Now I am done with schematics   
 
 After creating my schematics I asked other fellow hack clubber, to review my schematics, after solving some minor problem and getting approval from my fellow hack mates. I created this![image_2025-10-09_223058461.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--82fca411391aaf8130b4ea55c9c69751b01fb301/image_2025-10-09_223058461.png)
 and I think I am good to go with pcb designing part. Wish me luck as this project is amoung my one of the first complex hardware project.  
 
-## 10/9/2025 5:37 PM - I guess I am half way done creating PCB  
+## 10/9/2025 11:07 PM - I guess I am half way done creating PCB  
 
 So, I tried to create pcb for my keeb, which is supposed to fit inside my old keeb's case. So after an hour of extreme crash pain that kicad gave me, I created this. I am not sure whether I created this wrong or right. SO now I am gonna take a break cuz I am suffering from extreme fever.![image_2025-10-09_230632837.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--5c06540245ece4e990caa0f611c34ba79d54de98/image_2025-10-09_230632837.png)
   
 
-## 10/9/2025 6 PM - Fixed the diode   
+## 10/9/2025 11:47 PM - Fixed the diode   
 
 So while I was working on the PCB, I noticed that the diode that I was using in the schematics was the wrong one. After that, I removed the diode from the schematics and replaced it with a 1n4148 diode. After fixing the schematics, I went to the PCB editor and placed the diodes on the first row of the curcuit.![image_2025-10-09_234639402.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--6d5aad80f5f5ff811e21522c4137b1d1e1150098/image_2025-10-09_234639402.png)
 
@@ -55,7 +55,7 @@ So while I was working on the PCB, I noticed that the diode that I was using in 
 Such a headache!
   
 
-## 10/9/2025 8 PM - Almost done with pcb designing   
+## 10/10/2025 1 AM - Almost done with pcb designing   
 
 So, after 100s of misplacements to using wrong diode, I beleive I have completed the majority of the pcb. So the remaining part of the project is just only size fixing of the PCB and to create the firmware of the keyboard. So I plan to create 
 1. designing of the pcb
@@ -64,10 +64,22 @@ So, after 100s of misplacements to using wrong diode, I beleive I have completed
 4. I guess I am done there![image_2025-10-10_015214215.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI3OCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6e8322f82c4c99979a83f3d51052d1986401130/image_2025-10-10_015214215.png)
   
 
-## 10/9/2025 9 PM - Completed the pcb   
+## 10/10/2025 2 AM - Completed the pcb   
 
 So, I completed the wiring of pcb and ran DRC test which told me that my pcb is good to go, so now the only thing that I am supposed to do is create FIRMWARE for the keyboard and upload all the files to github.
 
 So there is also a problem due to my selection of microcontroller, I will not be able to fit it in my old keyboard case so, now my plan is to modify the case of my old keeb. And I will do that once I receive my fundings.![image_2025-10-10_023821118.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI4OSwicHVyIjoiYmxvYl9pZCJ9fQ==--56483c945b7377af2982143f2b4208d084785bf8/image_2025-10-10_023821118.png)
+  
+
+## 10/10/2025 3 PM - So I am starting with firmware for keyboard  
+
+So, I completed all hardware part for my keeb. So, what I am thinking to do right now is to watch this youtube tutorial(https://www.youtube.com/watch?v=1bRqxVm_wvo) and create the firmware for my keeb.
+
+My aim to create 
+1. window lock
+2. basic keeb working
+3. font changer
+![Screenshot 2025-10-10 014751.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--d769b42df769c711e46cb0af815666ac50b4b3b6/Screenshot%202025-10-10%20014751.png)
+![Screenshot 2025-10-10 023420.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTM2MywicHVyIjoiYmxvYl9pZCJ9fQ==--4bfb6afead81a7927d52cbaa442abf7dde20e7a9/Screenshot%202025-10-10%20023420.png)
   
 
