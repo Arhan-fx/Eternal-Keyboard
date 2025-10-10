@@ -1,4 +1,6 @@
-I am trying to create a good keyboard that will be replacing my current keyboard, and I will try my best to use keyboard forever so thats why I am naming it "eternal keyboard".
+I am trying to create a good keyboard that will be replacing my current keyboard, and I will try my best to use keyboard forever so thats why I am naming it "eterna keyboard".
+
+My plan is recycle my old 60% keeb and slam a new pcb, keys, and keycaps to make it usable again.
 
 BOM
 | Name                                                          | Qty | Final Price - INR (USD) | Link                                                                                                       |
